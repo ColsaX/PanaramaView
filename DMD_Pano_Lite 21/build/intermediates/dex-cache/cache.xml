@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tzury/Desktop/DMD_Pano_Lite 21/app/libs/dmd_pano_library_lite.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="118eecde3e903270fbcb42985663a0eb93613d7e">
+        <dex dex="/Users/tzury/Desktop/DMD_Pano_Lite 21/app/build/intermediates/pre-dexed/debug/dmd_pano_library_lite-b05b3e4a133e9c77bf4629e68fd0a8f3a38b7922.jar" />
+    </item>
+    <item
+        jar="/Users/tzury/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/tzury/Desktop/DMD_Pano_Lite 21/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-26d9680f973ffca00560959d446f6c5653fa4052.jar" />
+    </item>
+
+</items>
